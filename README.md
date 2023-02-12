@@ -167,32 +167,15 @@
 
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=zafir100100&show_icons=true&locale=en&layout=compact&theme=dark"
-        alt="zafir100100">
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Rdsarkar&show_icons=true&locale=en&layout=compact&theme=dark"
+        alt="Rdsarkar">
 </p>
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=zafir100100&show_icons=true&locale=en&hide=contribs,prs&theme=tokyonight"
-        alt="zafir100100">
+        src="https://github-readme-stats.vercel.app/api?username=Rdsarkar&show_icons=true&locale=en&hide=contribs,prs&theme=tokyonight"
+        alt="Rdsarkar">
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zafir100100&theme=merko"
-        alt="zafir100100">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdsarkar&theme=merko"
+        alt="Rdsarkar">
 </p>
-
-### Hi there 👋
-
-<!--
-**Rdsarkar/Rdsarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
