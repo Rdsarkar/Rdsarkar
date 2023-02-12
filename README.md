@@ -80,7 +80,7 @@
 </p>
 
 
-<h3 align="left">
+<!-- <h3 align="left">
     Back-End Tools & Frameworks:
 </h3>
 <p align="left">
@@ -91,9 +91,9 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
-</p>
+</p> -->
 
-
+<!-- 
 <h3 align="left">
     Mobile App Development:
 </h3>
@@ -102,10 +102,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" />
     </a>
-</p>
+</p> -->
 
 
-<h3 align="left">
+<!-- <h3 align="left">
     Databases:
 </h3>
 <p align="left">
@@ -119,10 +119,10 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
-</p>
+</p> -->
 
 
-<h3 align="left">
+<!-- <h3 align="left">
     SQA Tools:
 </h3>
 <p align="left">
@@ -138,7 +138,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" />
     </a>
-</p>
+</p> -->
 
 
 <h3 align="left">
