@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJDEEP SARKAR</h1>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&multiline=true&width=435&lines=A+passionate+Full+Stack+Developer+;Engineer+from+Bangladesh+" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=40E0D0&multiline=true&width=435&lines=A+passionate+Full+Stack+Developer+;Engineer+from+Bangladesh+" alt="Typing SVG" /></a>
 
 <img align="right" alt="Coding" width="300"
     src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8HVwTXeE0s4ClEVp.jpeg">
