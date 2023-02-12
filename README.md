@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Full stack development, Manual Testing, Automation Testing, API Testing.**
 
-- 📫 How to reach me **muhammad.zafir.alvi.official@gmail.com**
+- 📫 How to reach me **rajapscl@gmail.com**
 
 <br>
 
