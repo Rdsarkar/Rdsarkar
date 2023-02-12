@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MUHAMMAD ZAFIR ALVI</h1>
+<h1 align="center">Hi 👋, I'm RAJDEEP SARKAR</h1>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=3000&pause=&color=9AAD24&vCenter=true&multiline=true&width=435&height=60&lines=A+passionate+Full+Stack+Developer+%26+SQA;Engineer+from+Bangladesh."
@@ -9,13 +9,13 @@
     src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*8HVwTXeE0s4ClEVp.jpeg">
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=zafir100100&label=Profile%20views&color=0e75b6&style=flat"
-        alt="zafir100100" />
+    <img src="https://komarev.com/ghpvc/?username=Rdsarkar&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Rdsarkar" />
 </p>
 
 - 🔭 I’m currently working on **Full stack development, manual and automation testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zafir100100?tab=repositories](https://github.com/zafir100100?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Rdsarkar?tab=repositories](https://github.com/Rdsarkar?tab=repositories)
 
 - 💬 Ask me about **Full stack development, Manual Testing, Automation Testing, API Testing.**
 
@@ -27,15 +27,10 @@
     Connect with me:
 </h3>
 <p align="center">
-    <a href="https://github.com/zafir100100" target="blank">
+    <a href="https://github.com/Rdsarkar" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-            alt="zafir100100" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/zafir100100" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="zafir100100" height="30" width="40" />
+            alt="Rdsarkar" height="30" width="40" />
     </a>
 </p>
 
